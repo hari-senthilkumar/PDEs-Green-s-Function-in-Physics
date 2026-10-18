@@ -1,3 +1,3 @@
 # PDEs-Green-s-Function-in-Physics
 
-Abstract: This paper covers PDEs and discusses physical applications such as transport, waves, vibration, and diffusion. We will derive several key theorems about PDEs, and we will spend a lot of time discussing the heat and wave equations. We will also talk about boundary problems and how they tie the Green's function and PDEs together. All information, images, ideas, proofs, structure, and so on come directly from the sources cited below, especially Strauss. The whole paper is based completely on these textbooks, with original commentary and analysis provided by the author.
+Abstract: This paper covers PDEs and discusses physical applications such as transport, waves, vibration, and diffusion. We will derive several key theorems about PDEs, and we will spend a lot of time discussing the heat and wave equations. We will also talk about boundary problems and how they tie the Green's function and PDEs together.
